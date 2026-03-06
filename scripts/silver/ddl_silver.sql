@@ -24,7 +24,7 @@ CREATE TABLE silver.crm_cust_info(
 	cst_key NVARCHAR(50),
 	cst_firstname NVARCHAR(50),
 	cst_lastname NVARCHAR(50),
-	cst_material_status NVARCHAR(50),
+	cst_marital_status NVARCHAR(50),
 	cst_gnder NVARCHAR(50),
 	cst_create_date DATE, 
 	dwh_create_date DATETIME2 DEFAULT GETDATE() --metadata column
@@ -190,4 +190,4 @@ CREATE TABLE silver.erp_hr_hx19 (
 PRINT '>> silver Layer DDL Completed.';
 GO
 
-
+marital
