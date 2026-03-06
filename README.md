@@ -314,9 +314,9 @@ ORDER BY total_budget DESC;
 
 ## 👤 Author
 
-**Bashar Al-Jari**  
-Data Engineer | Data Architect  
-[LinkedIn]([www.linkedin.com/in/bashar-aljariri-27a48029b]) · [GitHub]([https://github.com/boshjr25])
+**Bashar Al-Jariri**  
+Data Engineer | Implementation Specialist  
+[LinkedIn]([www.linkedin.com/in/bashar-aljariri-27a48029b]) 
 
 ---
 
