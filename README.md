@@ -281,7 +281,7 @@ ORDER BY total_budget DESC;
 
 **Bashar Al-Jariri**  
 Data Engineer | Implementation Specialist  
-[LinkedIn]([www.linkedin.com/in/bashar-aljariri-27a48029b]) 
+[LinkedIn](https://www.linkedin.com/in/bashar-aljariri-27a48029b)
 
 ---
 
