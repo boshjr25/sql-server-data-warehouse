@@ -91,13 +91,13 @@ data-warehouse-project/
 
 ## 🔢 Project Metrics
 
-| Metric | Original | After Expansion |
-|---|---|---|
-| Source Tables | 6 | **12** |
-| Total Source Records | ~97,000 | **~116,500** |
-| Gold Dimensions | 2 | **5** |
-| Gold Facts | 1 | **4** |
-| Analytics Domains | Sales only | **Sales · HR · Inventory · Procurement · Marketing · Support** |
+| Metric | Value |
+|---|---|
+| Source Tables | **12** |
+| Total Source Records | **~138,100** |
+| Gold Dimensions | **5** |
+| Gold Facts | **4** |
+| Analytics Domains | **Sales · HR · Inventory · Procurement · Marketing · Support** |
 
 ---
 
