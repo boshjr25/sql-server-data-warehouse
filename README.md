@@ -96,7 +96,7 @@ data-warehouse-project/
 | Source Tables | **12** |
 | Total Source Records | **~138,100** |
 | Gold Dimensions | **5** |
-| Gold Facts | **4** |
+| Gold Facts | **5** |
 | Analytics Domains | **Sales · HR · Inventory · Procurement · Marketing · Support** |
 
 ---
